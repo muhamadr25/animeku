@@ -1,17 +1,19 @@
-# animeku
+🎌 ANIMEKU
 
-A new Flutter project.
+Discover Your Anime World
 
-## Getting Started
+ANIMEKU adalah aplikasi katalog dan eksplorasi anime berbasis Flutter yang dirancang untuk membantu pengguna menemukan anime favorit dengan tampilan modern, sederhana, dan interaktif.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini menyediakan berbagai informasi anime, fitur eksplorasi menggunakan swipe, serta sistem Favorite untuk menyimpan anime yang disukai.
 
-A few resources to get you started if this is your first Flutter project:
+📱 Preview Aplikasi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Home Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Halaman Home menampilkan banner anime, Trending Now, dan Popular Anime.
+
+Explore Page
+
+Halaman Explore memungkinkan pengguna menemukan anime baru melalui sistem swipe interaktif.

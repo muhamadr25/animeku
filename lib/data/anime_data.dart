@@ -1,0 +1,103 @@
+import '../models/anime_model.dart';
+
+const List<AnimeModel> animeList = [
+  AnimeModel(
+    id: 1,
+    title: 'Solo Leveling',
+    genre: 'Action, Fantasy',
+    description: 'Sung Jin-Woo berjuang menjadi hunter terkuat.',
+    posterUrl: 'assets/images/posters/solo_leveling.jpg',
+    bannerUrl: 'https://placehold.co/800x400/201E29/FFFFFF?text=SOLO+LEVELING',
+  ),
+  AnimeModel(
+    id: 2,
+    title: 'Demon Slayer',
+    genre: 'Action, Adventure',
+    description: 'Tanjiro berjuang menyelamatkan adiknya dari iblis.',
+    posterUrl: 'assets/images/posters/demon_slayer.jpg',
+    bannerUrl: 'https://placehold.co/800x400/30243F/FFFFFF?text=DEMON+SLAYER',
+  ),
+  AnimeModel(
+    id: 3,
+    title: 'Jujutsu Kaisen',
+    genre: 'Action, Supernatural',
+    description: 'Yuji Itadori memasuki dunia kutukan dan penyihir.',
+    posterUrl: 'assets/images/posters/jujutsu_kaisen.jpg',
+    bannerUrl: 'https://placehold.co/800x400/49306B/FFFFFF?text=JUJUTSU+KAISEN',
+  ),
+  AnimeModel(
+    id: 4,
+    title: 'Frieren: Beyond Journey’s End',
+    genre: 'Adventure, Fantasy',
+    description: 'Perjalanan penyihir elf memahami kehidupan dan waktu.',
+    posterUrl: 'assets/images/posters/frieren.jpg',
+    bannerUrl: 'https://placehold.co/800x400/263B45/FFFFFF?text=FRIEREN',
+  ),
+  AnimeModel(
+    id: 5,
+    title: 'One Piece',
+    genre: 'Adventure, Action',
+    description: 'Monkey D. Luffy berpetualang mencari harta One Piece.',
+    posterUrl: 'assets/images/posters/one_piece.jpg',
+    bannerUrl: 'https://placehold.co/800x400/304B68/FFFFFF?text=ONE+PIECE',
+  ),
+  AnimeModel(
+    id: 6,
+    title: 'Naruto Shippuden',
+    genre: 'Action, Adventure',
+    description: 'Naruto melanjutkan perjalanan menjadi Hokage.',
+    posterUrl: 'assets/images/posters/naruto_shippuden.jpg',
+    bannerUrl: 'https://placehold.co/800x400/70452B/FFFFFF?text=NARUTO',
+  ),
+  AnimeModel(
+    id: 7,
+    title: 'Attack on Titan',
+    genre: 'Action, Drama',
+    description: 'Manusia berjuang bertahan hidup dari serangan Titan.',
+    posterUrl: 'assets/images/posters/attack_on_titan.jpg',
+    bannerUrl:
+        'https://placehold.co/800x400/443B35/FFFFFF?text=ATTACK+ON+TITAN',
+  ),
+  AnimeModel(
+    id: 8,
+    title: 'Spy x Family',
+    genre: 'Comedy, Action',
+    description: 'Keluarga palsu menjalankan misi rahasia masing-masing.',
+    posterUrl: 'assets/images/posters/spy_x_family.jpg',
+    bannerUrl: 'https://placehold.co/800x400/354C43/FFFFFF?text=SPY+X+FAMILY',
+  ),
+  AnimeModel(
+    id: 9,
+    title: 'Blue Lock',
+    genre: 'Sports, Drama',
+    description: 'Para pemain sepak bola bersaing menjadi striker terbaik.',
+    posterUrl: 'assets/images/posters/blue_lock.jpg',
+    bannerUrl: 'https://placehold.co/800x400/204A79/FFFFFF?text=BLUE+LOCK',
+  ),
+  AnimeModel(
+    id: 10,
+    title: 'Kaiju No. 8',
+    genre: 'Action, Sci-Fi',
+    description:
+        'Kafka Hibino memperoleh kekuatan untuk berubah menjadi Kaiju.',
+    posterUrl: 'assets/images/posters/kaiju_no_8.jpg',
+    bannerUrl: 'https://placehold.co/800x400/3D4C42/FFFFFF?text=KAIJU+NO+8',
+  ),
+  AnimeModel(
+    id: 11,
+    title: 'The Apothecary Diaries',
+    genre: 'Drama, Mystery',
+    description: 'Maomao memecahkan berbagai misteri di istana kerajaan.',
+    posterUrl: 'assets/images/posters/apothecary_diaries.jpg',
+    bannerUrl:
+        'https://placehold.co/800x400/69503C/FFFFFF?text=APOTHECARY+DIARIES',
+  ),
+  AnimeModel(
+    id: 12,
+    title: 'DAN DA DAN',
+    genre: 'Action, Comedy, Supernatural',
+    description: 'Petualangan Momo dan Okarun menghadapi alien dan roh.',
+    posterUrl: 'assets/images/posters/dan_da_dan.jpg',
+    bannerUrl: 'https://placehold.co/800x400/623A65/FFFFFF?text=DAN+DA+DAN',
+  ),
+];
